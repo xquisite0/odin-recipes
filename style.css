@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(231, 231, 193);
+    font-family: Arial;
+}
+li, .description {
+    font-size: x-large;
+}
+h1, h2 {
+    text-align: center;
+}
